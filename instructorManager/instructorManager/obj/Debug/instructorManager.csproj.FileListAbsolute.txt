@@ -1,0 +1,14 @@
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\bin\Debug\instructorManager.exe.config
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\bin\Debug\instructorManager.exe
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\bin\Debug\instructorManager.pdb
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.csproj.AssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.csproj.SuggestedBindingRedirects.cache
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.instructor.resources
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.Properties.Resources.resources
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.csproj.GenerateResource.cache
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.csproj.CoreCompileInputs.cache
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.exe
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.pdb
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\bin\Debug\Database1.mdf
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\bin\Debug\Database1_log.ldf
+\\uol.le.ac.uk\root\student\home\g\gv58\Desktop Files\instructorManager\instructorManager\obj\Debug\instructorManager.Form2.resources
